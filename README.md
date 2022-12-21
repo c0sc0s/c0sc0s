@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0sc0s&show_icons=trueo&theme=highcontrast)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly&title_color=2AFADF />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly&title_color=#2AFADF />
 </a>
 
 
