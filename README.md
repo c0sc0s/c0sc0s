@@ -1,6 +1,6 @@
 <h1 align="center">Hello! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm COS(余弦)</h1>
 
-<img align="right" width="140px" src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b9526337518caee866da92d91b23e671809633c00e2b&rid=giphy.gif&ct=s"/>
+<img align="right" width="200px" src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b9526337518caee866da92d91b23e671809633c00e2b&rid=giphy.gif&ct=s"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 
@@ -49,7 +49,7 @@
 **Web, App, ML & Stocks**
 
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c0sc0s&show_icons=true&theme=dark"/> 
 </p>
 
 ---
