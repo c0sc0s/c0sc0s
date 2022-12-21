@@ -5,11 +5,10 @@
 
 ### My Core Project🔭
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly&bg_color=#23074d,#cc5333 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly&theme=highcontrast/>
 </a>
 
-
-
+                           <img src="https://img.shields.io/badge/Lang-JavaScript-yellowgreen">
 
 
 
