@@ -3,12 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0sc0s&show_icons=trueo&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0sc0s&layout=compact&theme=highcontrast)
 
-### My Core Project🔭
+<!-- ### My Core Project🔭
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly&theme=highcontrast/>
-</a>
+</a> -->
+<img src="https://img.shields.io/badge/Lang-JavaScript-yellowgreen">
 
-                           <img src="https://img.shields.io/badge/Lang-JavaScript-yellowgreen">
+                           
 
 
 
