@@ -4,9 +4,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 
-<p>I'm a Sophomore in CUIT📚 College now</p>
-<p>My Love is Music and Code</p>
-<p>Now, I'm learning <i>FrontEnd</i> and wish to be a Outstanding front-end engineer 💫</p>
+- <p>I'm a Sophomore in CUIT📚 College now</p>
+- <p>My Love is Music and Code</p>
+- <p>Now, I'm learning <i>FrontEnd</i> and wish to be a Outstanding front-end engineer 💫</p>
 
 
 <br/>
@@ -31,13 +31,14 @@
 <br/>
 
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 
 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -46,9 +47,10 @@
 **I am Into ,**
 
 **Web, App, ML & Stocks**
+
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
 </p>
 
 ---
-⭐️ From [sudnyeshtalekar](https://github.com/sudnyeshtalekar)
+⭐️ From [cos](https://github.com/c0sc0s)
