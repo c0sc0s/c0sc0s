@@ -1,6 +1,17 @@
 ### Hi there 👋
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0sc0s&show_icons=trueo&theme=highcontrast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+
+
 
 <!--
 **c0sc0s/c0sc0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
