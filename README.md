@@ -46,8 +46,11 @@
 
 
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c0sc0s&show_icons=true&theme=dark"/> 
-</p>
+<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="left"> <img src="https://github-readme-stats.vercel.app/api?username=c0sc0s&show_icons=true&theme=dark"/> 
+</span>
 
 ---
 ⭐️ From [cos](https://github.com/c0sc0s)
