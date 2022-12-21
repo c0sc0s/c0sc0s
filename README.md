@@ -44,9 +44,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
-**I am Into ,**
-
-**Web, App, ML & Stocks**
 
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c0sc0s&show_icons=true&theme=dark"/> 
