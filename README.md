@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0sc0s&show_icons=trueo&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0sc0s&layout=compact&theme=highcontrast)
 
+### My Core Project🔭
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly&bg_color=#23074d,#cc5333 />
 </a>
 
-<strong style="color=red">MyLOve</strong>
+
+
 
 
 
