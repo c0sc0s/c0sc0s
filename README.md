@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c0sc0s&repo=JavaScriptThoroughly&bg_color=#23074d,#cc5333 />
 </a>
 
-
+<strong style="color=red">MyLOve</strong>
 
 
 
