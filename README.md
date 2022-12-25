@@ -35,6 +35,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+
+
 <!-- <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code> -->
 
 <br />
@@ -42,6 +44,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="5%" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg"></code>
 
 
 
