@@ -4,9 +4,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 
-- <p>I'm a Sophomore in CUIT📚 College now</p>
+- <p>I'm a sophomore in CUIT📚 College now</p>
 - <p>My Love is Music and Code</p>
-- <p>Now, I'm learning <i>FrontEnd</i> and wish to be a Outstanding front-end engineer 💫</p>
+- <p>Now, I'm learning <i>FrontEnd</i> and wish to be an outstanding front-end engineer 💫</p>
 
 
 <br/>
