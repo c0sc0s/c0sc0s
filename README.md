@@ -1,4 +1,4 @@
 
 <div style="text-align:center;">
- <img src="https://github.com/c0sc0s/BlogPic/blob/main/COSINE%20(1)%20(1).gif"/>
+<img src="https://s2.loli.net/2023/06/07/EqU5HKxomeWnIF8.gif" >
 </div>
