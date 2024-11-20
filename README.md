@@ -4,6 +4,6 @@
 
 <ul>
    <li>FrontEnd Dev</li>
-   <li>Love With 💗 @Danan</li>
+   <li>Love With 💗 @Dandan</li>
 </ul>
 
