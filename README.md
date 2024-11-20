@@ -3,7 +3,7 @@
 </p>
 
 <ul>
-   <li>FrontEnd Dev</li>
+   <li>FrontEnd Dev @Bytedance</li>
    <li>Love With 💗 @Dandan</li>
 </ul>
 
